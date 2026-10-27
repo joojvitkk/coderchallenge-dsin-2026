@@ -10,7 +10,7 @@ Central de monitoramento de equipamentos e agentes de trânsito e segurança, ce
 - **Ferramenta de IA utilizada:** Claude Code (Anthropic), para escrever e revisar código a partir das regras definidas pelo autor. O produto em si **não chama nenhuma IA externa**: o "Copilot PROMETHEUS" é feito de regras e expressões regulares.
 
 ## Vídeo de demonstração
-[`video/fogo-apresentacao.mp4`](video/fogo-apresentacao.mp4) (2 min 49 s).
+[`video/fogo-apresentacao.mp4`](video/fogo-apresentacao.mp4) (2 min 49 s, Full HD 1920×1080).
 
 ## O que o sistema faz
 | Parte do desafio | O que foi entregue |
